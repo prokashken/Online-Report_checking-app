@@ -1,0 +1,1 @@
+<a href="{{ url("editpatient/$row->id") }}" style="margin-bottom:10px;" class="btn btn-success">Review Patient</a>

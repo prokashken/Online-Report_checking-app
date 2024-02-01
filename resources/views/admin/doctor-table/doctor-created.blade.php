@@ -1,0 +1,1 @@
+<td>{{$row->created_at->format('m/d/Y')}}</td>

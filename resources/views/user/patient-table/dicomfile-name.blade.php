@@ -1,0 +1,1 @@
+{{$row->dicomfile_name}}

@@ -1,0 +1,1 @@
+{{$row->medical_centre_name}}
